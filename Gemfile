@@ -92,4 +92,10 @@ group :development, :test do
 
   gem 'selenium-webdriver'
   gem 'rails_best_practices'
+
+  gem 'rails_best_practices', '~> 1.15.2'
+  gem 'rubocop', '~> 0.20.1'
+  gem 'reek', '~> 1.3.7'
+  gem 'simplecov', '~> 0.8.2'
+  gem 'Saikuro', '~> 1.1.0'
 end

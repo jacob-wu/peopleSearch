@@ -91,7 +91,6 @@ group :development, :test do
   gem 'ladle', '~> 0.2.0'
 
   gem 'selenium-webdriver'
-  gem 'rails_best_practices'
 
   gem 'rails_best_practices', '~> 1.15.2'
   gem 'rubocop', '~> 0.20.1'
